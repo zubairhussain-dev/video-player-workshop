@@ -1,6 +1,6 @@
 # HTML Video Player
 
-This repository contains a functional HTML5 Video Player built as part of the freeCodeCamp curriculum. It demonstrates how to embed video content with playback controls and ensure compatibility across different browsers using multiple source formats.
+This repository contains a functional HTML5 Video Player built as part of the freeCodeCamp curriculum. It demonstrates how to embed video content with playback controls and ensure compatibility across different browsers using multiple source formats. 
 
 ## Project Objective
 To build a resilient video player that offers fallbacks for different file types and customized playback behavior.
@@ -24,3 +24,4 @@ To build a resilient video player that offers fallbacks for different file types
 
 ## Credits
 * **Curriculum:** [freeCodeCamp](https://www.freecodecamp.org)
+ ![Project Preview](preview.jpg)
